@@ -117,7 +117,6 @@ Reload privilege tables now? (Press y/Y for Yes, any other key for no) :
 
 - Kurulum tamamlandı 
 
-![lawp](/img/lawp4.png)
 
 - Kurulumu kontrol edelim
 
