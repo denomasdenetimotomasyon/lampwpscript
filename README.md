@@ -1,4 +1,4 @@
-# lampwpscript#**Bash Script İle Lamp Wordpress Kurulumu**
+#**Bash Script İle Lamp Wordpress Kurulumu**
 
 >Bu uygulama Ubuntu 18.04 üzerinde yapılmıştır
 
