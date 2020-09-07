@@ -1,8 +1,8 @@
-#**Bash Script İle Lamp Wordpress Kurulumu**
+#Bash Script İle Lamp Wordpress Kurulumu
 
 >Bu uygulama Ubuntu 18.04 üzerinde yapılmıştır
  
-##**Nedir?**
+**Nedir?**
 
 - Bu script lamp wordpress kurulumunu içermektedir
 - **lamp** (Linux, Apache2, MySQL, PHP)
@@ -10,7 +10,7 @@
 - Kurulum başladıktan sonra girmemiz gereken değerler bulunuyor bunları göstereceğiz
 
 
-###**Kurulum**
+**Kurulum**
 
 - Root yetkisine sahip oluyoruz
 
