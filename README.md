@@ -10,7 +10,7 @@
 - Kurulum başladıktan sonra girmemiz gereken değerler bulunuyor bunları göstereceğiz
 
 
-**Kurulum**
+Kurulum
 
 - Root yetkisine sahip oluyoruz
 
