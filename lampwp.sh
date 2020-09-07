@@ -130,7 +130,6 @@ require_once(ABSPATH . 'wp-settings.php');" >> wp-config.php
 echo -e "\033[36m"
 echo "-------------------------------"
 echo "------Installation Done--------"
-echo "------Powered by Ufkan, thanks for support to 'ofbahar'---------"
 echo "------Your ip address;" $(ifconfig | grep inet | tail -n4 | head -n1 | awk '{print $2}')
 echo "------Open your browser and type this-----"
 echo "------http://ipaddress/wordpress----------"
